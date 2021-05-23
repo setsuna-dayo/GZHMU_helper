@@ -8,9 +8,12 @@
 面向搜索引擎编程，代码超烂，非计算机专业学生，望多包涵，多多提出意见。有什么想要的新功能，也可以在Issue或者邮箱里向我提出-v-
 
 ## 功能简述
-(配图是Alpha版的配图，懒得更新，实际功能以release的版本为准)
+(部分配图是Alpha版的配图，懒得更新，实际功能以release的版本为准)
 
-![图片](https://user-images.githubusercontent.com/84665734/119258653-337ecc80-bbfd-11eb-8bd0-228e0591edc0.png)
+注意：
+**使用蓝字的快捷功能之前要先登录红字的教务管理系统！！**
+
+![图片](https://user-images.githubusercontent.com/84665734/119280557-8a6bbc80-bc64-11eb-9109-7500de9752f0.png)
 
 ![图片](https://user-images.githubusercontent.com/84665734/119258665-3e396180-bbfd-11eb-94dd-5804fb6359cd.png)
 
