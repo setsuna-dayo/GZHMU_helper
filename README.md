@@ -8,6 +8,7 @@
 面向搜索引擎编程，代码超烂，非计算机专业学生，望多包涵，多多提出意见。有什么想要的新功能，也可以在Issue或者邮箱里向我提出-v-
 
 ## 功能简述
+(配图是Alpha版的配图，懒得更新，实际功能以release的版本为准)
 ![图片](https://user-images.githubusercontent.com/84665734/119258653-337ecc80-bbfd-11eb-8bd0-228e0591edc0.png)
 
 ![图片](https://user-images.githubusercontent.com/84665734/119258665-3e396180-bbfd-11eb-94dd-5804fb6359cd.png)
@@ -20,3 +21,4 @@
 ## 题外话
 话说有谁知道怎样在2021年往winform里面嵌入flash吗（
 说明：安装包比较大是因为里面嵌了运行库，实际安装的大小不会超过20M的orz
+TODO：希望在下一个beta里面加入学生OA的快捷访问www这OA的兼容性也太~了
