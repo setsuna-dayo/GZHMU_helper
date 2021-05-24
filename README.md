@@ -20,7 +20,7 @@
 ![图片](https://user-images.githubusercontent.com/84665734/119258676-501b0480-bbfd-11eb-9c15-de8fb763bafc.png)
 
 ## 下载方式
-见[Realease](https://github.com/setsuna-dayo/GZHMU_helper/releases/download/v0.3.1-beta/GZHMU_Helper_Installer_v0.3.1-beta.exe)，正式版完成后会使用国内网盘分流。
+见[Realease](https://github.com/setsuna-dayo/GZHMU_helper/releases/latest)，正式版完成后会使用国内网盘分流。
 
 ## 题外话
 话说有谁知道怎样在2021年往winform里面嵌入flash吗（
